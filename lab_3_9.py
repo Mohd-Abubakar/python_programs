@@ -1,0 +1,5 @@
+tup = input('Enter the number in tuple:')
+print('(',tup,')',sep='')
+a = input('Enter the repeated number of a tuple:')
+count = tup.count(a)
+print(count)
